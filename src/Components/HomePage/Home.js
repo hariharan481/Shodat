@@ -13,6 +13,7 @@ const Home = () => {
       <EmbracingPower />
       <CardsComponent />
       <ScheduleMeeting />
+      
     </div>
   );
 };
